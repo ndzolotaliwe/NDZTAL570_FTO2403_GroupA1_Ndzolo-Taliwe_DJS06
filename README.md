@@ -61,3 +61,4 @@ For these exercises, wrap your logic in a single `console.log` statement:
 - Code readability and efficiency.
 - Thoughtful commentary and explanation of your solution approach and decision-making process.
 
+https://www.loom.com/share/1b43151eac5b4ca69de1cfcf940094ab?sid=2d64a5a1-94e2-4205-9c29-0ffaf39df451
